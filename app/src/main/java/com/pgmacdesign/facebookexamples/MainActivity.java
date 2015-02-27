@@ -8,9 +8,6 @@ import android.view.MenuItem;
 
 public class MainActivity extends FragmentActivity {
 
-	//MainFragment global variable
-	private MainFragment0 mainFragment0;
-
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
